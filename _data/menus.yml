@@ -1,0 +1,7 @@
+header:
+  - url: /
+    title: SEAL
+  - url: /plots
+    title: Results
+  - url: /reproducing
+    title: VaRA
